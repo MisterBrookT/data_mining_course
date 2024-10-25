@@ -1,4 +1,8 @@
 # In[1]: Import the necessary package
+# need to download the dataset to run the code.
+#!pip install kaggle
+#!kaggle competitions download -c llm-classification-finetuning  
+
 import os
 import numpy as np 
 import pandas as pd
